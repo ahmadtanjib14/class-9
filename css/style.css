@@ -1,0 +1,54 @@
+
+.header{
+    height: 100px;
+    background-color: brown;
+}
+.container{
+    overflow: hidden;
+width: ;
+height: ;
+border:10px solid green;
+
+} 
+.blog{
+    float: left;
+    width:70%;
+    height:150px;
+    background-color:blue;
+}
+.contact{
+    float: right;
+    width:30%;
+    height:150px;
+    background-color:blueviolet;
+}
+.footer{
+    height: 100px;
+    background-color:black;
+}
+.b1{
+    overflow: hidden;
+    border: 5px solid purple;
+}
+.box{  
+   
+    float: left;
+    width:24%;
+    height: 100px;
+}
+.f1{
+    background-color:aqua
+
+}
+.f2{
+    background-color:yellow
+
+}
+.f3{
+    background-color:chocolate
+
+}
+.f4{
+    background-color:darkblue
+
+}
